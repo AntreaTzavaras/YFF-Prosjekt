@@ -1,0 +1,295 @@
+h1 {
+  text-align: center;
+  position: relative;
+  text-decoration: overline;
+  color: rgb(42, 130, 231);
+  bottom: -750px;
+  text-shadow: 4px 4px 4px #ffffff;
+}
+
+h3 {
+  text-align: left ;
+  position: relative;
+  background-color: white;
+  bottom: -820px;
+  padding: 10px;
+  border: 0.5px solid black;
+  width: 230px;
+  font-size: 20px;
+  border-top-left-radius: 25px;
+}
+
+.Acropolis {
+  width: 30%; 
+  height: 40%;
+  position: relative;
+  justify-content: left;
+  bottom: -800px;
+  border: 0.5px solid black;
+}
+
+.Crete {
+  width: 30%;
+  height: 40%;
+  position: relative;
+  justify-content: left;
+  bottom: -850px;
+  border: 0.5px solid black;
+}
+
+.Rhodes {
+  width: 30%;
+  height: 40%;
+  position: relative;
+  justify-content: left;
+  bottom: -850px;
+  border: 0.5px solid black;
+}
+
+.Corfu {
+  width: 30%;
+  height: 40%;
+  position: relative;
+  justify-content: left;
+  bottom: -850px;
+  border: 0.5px solid black;
+}
+
+.Kos {
+ position: relative;
+ justify-content: left;
+ width: 35%;
+ height: 60%;
+ bottom: -1290px;
+ right: 35%;
+ border: 0.5px solid black;
+}
+
+h4 {
+  text-align: left ;
+  position: relative;
+  background-color: white;
+  bottom: -877px;
+  padding: 10px;
+  border: 0.5px solid black;
+  width: 230px;
+  font-size: 20px;
+  border-top-left-radius: 25px;
+}
+
+h5 {
+  text-align: left ;
+  position: relative;
+  background-color: white;
+  bottom: -884px;
+  padding: 10px;
+  border: 0.5px solid black;
+  width: 230px;
+  font-size: 20px;
+  border-top-left-radius: 25px;
+}
+h6 {
+  text-align: left ;
+  position: relative;
+  background-color: white;
+  bottom: -896px;
+  padding: 10px;
+  border: 0.5px solid black;
+  width: 230px;
+  font-size: 20px;
+  border-top-left-radius: 25px;
+}
+
+p {
+  bottom: -720px;
+  text-align: center;
+  position: relative;
+  font-size: 30px;
+  background-color:white;
+  padding: 10px;
+  font-family: Gill Sans, sans-serif;
+  margin: 0%;
+  border-radius: 25px;
+}
+
+.BildeTekst {
+text-align: center;
+position: relative;
+bottom: 870px;
+padding: 30px;
+width: 30%;
+left: 33%;
+font-family: 'Gill Sans', sans-serif;
+font-size: 18px;
+background-color: rgb(255, 255, 255);
+text-shadow: 0.5px 0.5px 0.5px black;
+}
+
+.TekstBilde {
+text-align: center;
+position: relative;
+bottom: 750px;
+padding: 30px;
+width: 30%;
+left: 33%;
+font-family: 'Gill Sans', sans-serif;
+font-size: 18px;
+background-color: rgb(255, 255, 255);
+text-shadow: 0.5px 0.5px 0.5px black;
+}
+
+.CorfuTekst {
+text-align: center;
+position: relative;
+bottom: 630px;
+padding: 30px;
+width: 30%;
+left: 33%;
+font-family: 'Gill Sans', sans-serif;
+font-size: 18px;
+background-color: rgb(255, 255, 255);
+text-shadow: 0.5px 0.5px 0.5px black;
+}
+
+.RhodesTekst {
+text-align: center;
+position: relative;
+bottom: 560px;
+padding: 30px;
+width: 30%;
+left: 33%;
+font-family: 'Gill Sans', sans-serif;
+font-size: 18px;
+background-color: rgb(255, 255, 255);
+text-shadow: 0.5px 0.5px 0.5px black;
+}
+
+h2 {
+  bottom: 720px;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    background-color: white;
+  }
+
+#background-image {
+  background-image: url(kos.avif);
+    background: url(kos.avif);
+    background-repeat: no-repeat;
+    opacity: 0.6;
+}
+  
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: hsl(212, 70%, 48%, 0.3);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #ffffff;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #030303;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+  span {
+    font-size:30px;cursor:pointer
+
+  }
+
+img {
+    position: absolute;
+    right: 3px;
+  }
+
+  .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  b {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    right: 5%;
+  }
+  
+  b:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .previous {
+    background-color: #f1f1f1;
+    color: black;
+  }
+  
+  .next {
+    background-color: #1c6ecc;
+    color: white;
+  }
+  
+  .round {
+    border-radius: 50%;
+  }
+  
+  
+iframe {
+  width: 600px;
+  height: 400px;
+  right: 3%;
+  position: absolute;
+  bottom: -580px;
+}
+
+.CreteVideo {
+  width: 600px;
+  height: 400px;
+  right: 3%;
+  position: absolute;
+  bottom: -115%;
+}
+
+.CorfuVideo {
+  width: 600px;
+  height: 400px;
+  right: 3%;
+  position: absolute;
+  bottom: -165%;
+}
+
+.RhodesVideo {
+  width: 600px;
+  height: 400px;
+  right: 3%;
+  position: absolute;
+  bottom: -212%;
+}

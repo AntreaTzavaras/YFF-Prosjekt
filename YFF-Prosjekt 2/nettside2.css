@@ -1,0 +1,133 @@
+h1 {
+    text-align: left;
+    position: relative;
+    background-color: white;
+    padding: 0.5%;
+    border: 0.5px solid black;
+    width: 230px;
+    bottom: -14px;
+    font-size: 20px;
+    border-top-right-radius: 25px;
+}
+
+h2 {
+    text-align: left;
+    position: relative;
+    background-color: white;
+    padding: 0.5%;
+    border: 0.5px solid black;
+    width: 230px;
+    bottom: -167px;
+    font-size: 20px;
+    border-top-right-radius: 25px;
+}
+
+h3 {
+    text-align: left;
+    position: relative;
+    background-color: white;
+    padding: 0.5%;
+    border: 0.5px solid black;
+    width: 230px;
+    bottom: -220px;
+    font-size: 20px;
+    border-top-right-radius: 25px;
+}
+
+.Kos {
+    width: 30%;
+    height: 40%;
+    position: relative;
+    justify-content: left;
+    border: 0.5px solid black;
+}
+
+.Santorini {
+    width: 30%;
+    height: 40%;
+    position: relative;
+    justify-content: left;
+    border: 0.5px solid black;
+    bottom: -150px;
+}
+
+.Mykonos {
+    width: 30%;
+    height: 40%;
+    position: relative;
+    justify-content: left;
+    border: 0.5px solid black;
+    bottom: -200px;
+}
+
+.KosTekst {
+    text-align: center;
+    position: relative;
+    padding: 30px;
+    width: 30%;
+    left: 31%;
+    bottom: 1150px;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 18px;
+    background-color: white;
+    text-shadow: 0.5px 0.5px 0.5px black;
+}
+
+.SantoriniTekst {
+    text-align: center;
+    position: relative;
+    padding: 30px;
+    width: 30%;
+    left: 31%;
+    bottom: 920px;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 18px;
+    background-color: white;
+    text-shadow: 0.5px 0.5px 0.5px black;
+}
+
+.MykonosTekst {
+    text-align: center;
+    position: relative;
+    padding: 30px;
+    width: 30%;
+    left: 31%;
+    bottom: 720px;
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 18px;
+    background-color: white;
+    text-shadow: 0.5px 0.5px 0.5px black;
+}
+
+.KosVideo {
+    width: 600px;
+    height: 400px;
+    right: 3%;
+    position: absolute;
+    bottom: 55%;
+}
+
+.SantoriniVideo {
+    width: 600px;
+    height: 400px;
+    right: 3%;
+    position: absolute;
+    bottom: 5%;
+}
+
+
+.MykonosVideo {
+    width: 600px;
+    height: 400px;
+    right: 3%;
+    position: absolute;
+    bottom: -49%;
+}
+
+footer {
+    background-color: #3299dd;
+    padding: 40px;
+    text-align: center;
+    color: white;
+  }
+
